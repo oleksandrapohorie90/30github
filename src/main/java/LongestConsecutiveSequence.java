@@ -25,7 +25,7 @@ public class LongestConsecutiveSequence {
     public static int longestConsecutive(int[] nums) {
 
         //lets create a set to avoid duplicates and make sure all the look up of elements ara fast
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new HashSet<>(); //add all the numbers to set
         for (int n : nums) {
             set.add(n);
         }
