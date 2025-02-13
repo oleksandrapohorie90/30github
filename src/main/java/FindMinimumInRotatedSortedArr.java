@@ -1,9 +1,7 @@
 
 
 public class FindMinimumInRotatedSortedArr {
-    //inflection point is bigger then 0(index of it) the prev element is strictly bigger than it
-    //number 7 and 0
-    //take a pen and paper and draw the execution of the algorithm on different arrays
+   
     public int findMin(int[] nums) {
         int n = nums.length;
 
