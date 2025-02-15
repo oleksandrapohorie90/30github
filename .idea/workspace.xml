@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d42afe-d14e-4991-9433-140773eef09b" name="Changes" comment="2/30">
+    <list default="true" id="d0d42afe-d14e-4991-9433-140773eef09b" name="Changes" comment="2/7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,35 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.GroupAnagrams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSums_HashMap.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.GroupAnagrams">
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
+      <module name="30github" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSums_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoSums_HashMap" />
+      <module name="30github" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.TwoSums_HashMap" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -83,12 +107,141 @@
       <option name="project" value="LOCAL" />
       <updated>1738674485329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738758356894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738758356894</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738842578576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738842578576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738845314497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738845314497</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738845567944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738845567944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738846917838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738846917838</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2/30">
+      <option name="closed" value="true" />
+      <created>1738847526608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738847526608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1738936624979</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738936624979</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739017240844</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739017240844</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739125670181</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739125670181</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739193658529</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739193658529</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739286425534</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739286425534</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739354249332</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739354249332</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739442146204</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442146204</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739442154209</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442154209</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739442158914</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1739442158914</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1739540664992</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739540664992</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1/30" />
     <MESSAGE value="2/30" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/30" />
+    <MESSAGE value="2/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/7" />
   </component>
 </project>
