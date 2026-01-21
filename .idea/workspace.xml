@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0d42afe-d14e-4991-9433-140773eef09b" name="Changes" comment="2/7">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AlgorithmsAnalyses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop_january/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop_january/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop_january/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreeSum_BruteForceAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeSum_BruteForceAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,15 @@
     "Application.TwoSums_HashMap.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.ThreeSum_BruteForceAlgorithm">
     <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
@@ -319,7 +326,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740678552244</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1740692950053</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1740692950053</updated>
+    </task>
+    <task id="LOCAL-00030" summary="2/7">
+      <option name="closed" value="true" />
+      <created>1740778788255</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1740778788255</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
